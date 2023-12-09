@@ -1,3 +1,4 @@
+/* Estilo da calculadora */
 .calculadora {
   margin-top: 40px;
   border: solid 1px #000;
@@ -7,6 +8,7 @@
   box-shadow: 1px 1px 5px #000;
 }
 
+/* Estilo dos botões da calculadora */
 .btn {
   width: 60px;
   height: 50px;
@@ -14,18 +16,22 @@
   box-shadow: 1px 1px 1px #000;
 }
 
+/* Estilo do botão de limpar (C) */
 .clear {
   width: 130px;
 }
 
+/* Estilo do botão de igual (=) */
 .enter {
   height: 110px;
 }
 
+/* Estilo do botão zero (0) */
 .zero {
   width: 130px;
 }
 
+/* Estilo do visor da calculadora */
 .resultado {
   text-align: right;
   font-size: 20px;
